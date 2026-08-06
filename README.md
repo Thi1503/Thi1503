@@ -17,7 +17,7 @@
 
 Nearly 2 years of experience building Flutter applications, directly developing and maintaining products used by **thousands of real users** in the e-invoicing and social insurance sectors. Currently expanding into **native Android** (Kotlin, Jetpack Compose) to deepen my mobile platform expertise.
 
-🎓 Graduated with a **Distinction (Very Good)** degree in Applied Mathematics & Informatics from **Hanoi University of Science and Technology (HUST)** (GPA 3.23/4.0)
+🎓 Graduated with a **Very Good** degree in Applied Mathematics & Informatics from **Hanoi University of Science and Technology (HUST)** (GPA 3.23/4.0)
 🚀 Goal: to become a **Middle Mobile Developer** within 1–2 years, taking on more complex projects and getting more involved in application architecture design.
 
 > 🔧 **Also comfortable outside mobile:** through my graduation project I gained hands-on backend experience with **Java, Spring Boot 3, MySQL, Docker, Kafka, Zipkin and API Gateway** in a microservices setup — enough to work confidently across the full stack when needed.
