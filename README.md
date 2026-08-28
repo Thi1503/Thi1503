@@ -111,7 +111,7 @@ Offline-first personal expense tracker with a **custom-built** two-way Local ⇄
 
 <code>Flutter</code> <code>BLoC/Cubit</code> <code>GetIt</code> <code>Hive</code> <code>Firebase (Auth, Firestore)</code> <code>fl_chart</code>
 
-▶️ <a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/>CH Play</a>
+<a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
 
 #### 📄 EasyInvoice
 *Softdreams · 03/2025 – 05/2026 · Team of 15*
