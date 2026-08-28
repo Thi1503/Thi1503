@@ -98,6 +98,21 @@ Nearly 2 years of experience building Flutter applications, directly developing 
 
 ### 💼 Featured Projects
 
+#### 💰 TLD Tracker <em>(Personal project, Published on Google Play.)</em>
+*Solo project · 06/2026 – 08/2026*
+
+Offline-first personal expense tracker with a **custom-built** two-way Local ⇄ Cloud sync engine (no third-party sync package).
+
+- Duplicate-safe command queue, retry on transient failures, Last-Write-Wins merging — self-triggered at 4 sync points with no double-running
+- 3-layer Clean Architecture (Domain/Data/Presentation) with shared base classes (`BaseCubit`, `UseCase`, `BaseRepository`) for consistency and testability
+- Full authentication (Email/Password, Google Sign-In) plus a store-compliant account deletion flow
+- fl_chart statistics screens, multi-language (vi/en) support, Dark/Light theme, offline-capable daily reminders
+- CI/CD pipeline (GitHub Actions, Fastlane, Firebase App Distribution) automating build, sign, and distribution
+
+<code>Flutter</code> <code>BLoC/Cubit</code> <code>GetIt</code> <code>Hive</code> <code>Firebase (Auth, Firestore)</code> <code>fl_chart</code>
+
+▶️ <a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker">CH Play</a>
+
 #### 📄 EasyInvoice
 *Softdreams · 03/2025 – 05/2026 · Team of 15*
 
@@ -149,20 +164,6 @@ Microservices-based Human Resource Management system (6 services) with a Flutter
 
 🔗 <a href="https://github.com/Thi1503/hrm-system">Backend</a> · <a href="https://github.com/Thi1503/hrm-app">Mobile</a>
 
-#### 💰 TLD Tracker <em>(Personal project, Published on Google Play.)</em>
-*Solo project · 06/2026 – 08/2026*
-
-Offline-first personal expense tracker with a **custom-built** two-way Local ⇄ Cloud sync engine (no third-party sync package).
-
-- Duplicate-safe command queue, retry on transient failures, Last-Write-Wins merging — self-triggered at 4 sync points with no double-running
-- 3-layer Clean Architecture (Domain/Data/Presentation) with shared base classes (`BaseCubit`, `UseCase`, `BaseRepository`) for consistency and testability
-- Full authentication (Email/Password, Google Sign-In) plus a store-compliant account deletion flow
-- fl_chart statistics screens, multi-language (vi/en) support, Dark/Light theme, offline-capable daily reminders
-- CI/CD pipeline (GitHub Actions, Fastlane, Firebase App Distribution) automating build, sign, and distribution
-
-<code>Flutter</code> <code>BLoC/Cubit</code> <code>GetIt</code> <code>Hive</code> <code>Firebase (Auth, Firestore)</code> <code>fl_chart</code>
-
-▶️ <a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker">CH Play</a>
 
 ---
 
