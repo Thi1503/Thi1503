@@ -149,7 +149,7 @@ Microservices-based Human Resource Management system (6 services) with a Flutter
 
 🔗 <a href="https://github.com/Thi1503/hrm-system">Backend</a> · <a href="https://github.com/Thi1503/hrm-app">Mobile</a>
 
-#### 💰 TLD Tracker <em>(Personal project, in Closed Testing on Google Play)</em>
+#### 💰 TLD Tracker <em>(Personal project, Published on Google Play.)</em>
 *Solo project · 06/2026 – 08/2026*
 
 Offline-first personal expense tracker with a **custom-built** two-way Local ⇄ Cloud sync engine (no third-party sync package).
@@ -162,7 +162,7 @@ Offline-first personal expense tracker with a **custom-built** two-way Local ⇄
 
 <code>Flutter</code> <code>BLoC/Cubit</code> <code>GetIt</code> <code>Hive</code> <code>Firebase (Auth, Firestore)</code> <code>fl_chart</code>
 
-▶️ <a href="https://youtu.be/yw7cVkJ7Rbs">Watch demo</a>
+▶️ <a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker">CH Play</a>
 
 ---
 
