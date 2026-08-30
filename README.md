@@ -35,6 +35,17 @@ Nearly 2 years of experience building Flutter applications, directly developing 
 
 ---
 
+### 💼 Work Experience
+
+**Flutter Developer** · **Softdreams** · `01/2025 – 05/2026`
+
+- Engineered and maintained production-grade Flutter applications across the e-invoice and social insurance domains, spanning 3 major projects (**EasyInvoice**, **iCare BHXH**, **vBHXH**)
+- Applied **Clean Architecture** and **GetX** state management to improve codebase scalability, maintainability, and long-term development velocity
+- Authored **unit tests** for core business logic, strengthening reliability and reducing production defects
+- Partnered with **Backend, BA, and QA teams** within an **Agile** workflow to deliver features on schedule
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -120,6 +131,7 @@ E-invoicing app compliant with Vietnamese Circulars 32 & 78, serving **20,000+ d
 
 - Built invoice management, declaration, and receipt modules
 - Implemented tax-code verification and invoice-range conversion features
+- Managed release builds and versioning for Android/iOS, streamlining the build-to-distribution workflow
 - Optimized API integration and app stability using GetX and Dio
 
 <code>Flutter</code> <code>GetX</code> <code>Dio</code> <code>Hive</code> <code>Firebase</code>
