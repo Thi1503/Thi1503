@@ -26,7 +26,7 @@
 
 ### 🎯 About Me
 
-Nearly 2 years of experience building Flutter applications, directly developing and maintaining products used by **thousands of real users** in the e-invoicing and social insurance sectors. Proactively expanding into **native Android** (Kotlin, Jetpack Compose) and **CI/CD automation** (GitHub Actions, Fastlane, Firebase App Distribution) to deepen my mobile platform expertise.
+Nearly 1.5 years of experience building Flutter applications, directly developing and maintaining products used by **thousands of real users** in the e-invoicing and social insurance sectors. Proactively expanding into **native Android** (Kotlin, Jetpack Compose) and **CI/CD automation** (GitHub Actions, Fastlane, Firebase App Distribution) to deepen my mobile platform expertise.
 
 🎓 Graduated with a **Very Good** degree in Mathematics and Informatics (MI1) from **Hanoi University of Science and Technology (HUST)**, 09/2021 – 03/2026 (GPA 3.23/4.0)
 🚀 Goal: to become a **Middle Mobile Developer** within 1–2 years, taking on more complex projects and getting more involved in application architecture design.
@@ -37,7 +37,7 @@ Nearly 2 years of experience building Flutter applications, directly developing 
 
 ### 💼 Work Experience
 
-**Flutter Developer** · **Softdreams** · `01/2025 – 05/2026`
+**Flutter Developer** · **Softdreams** · `04/2025 – 05/2026`
 
 - Engineered and maintained production-grade Flutter applications across the e-invoice and social insurance domains, spanning 3 major projects (**EasyInvoice**, **iCare BHXH**, **vBHXH**)
 - Applied **Clean Architecture** and **GetX** state management to improve codebase scalability, maintainability, and long-term development velocity
@@ -125,7 +125,7 @@ Offline-first personal expense tracker with a **custom-built** two-way Local ⇄
 <a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
 
 #### 📄 EasyInvoice
-*Softdreams · 03/2025 – 05/2026 · Team of 15*
+*Softdreams · 05/2025 – 05/2026 · Team of 15*
 
 E-invoicing app compliant with Vietnamese Circulars 32 & 78, serving **20,000+ daily active users**.
 
