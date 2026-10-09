@@ -2,7 +2,7 @@
 <h3 align="center">📱 Mobile Developer | Flutter & Android Native</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%40+Softdreams;Clean+Architecture+%7C+GetX+%7C+BLoC;Building+apps+for+thousands+of+real+users" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Native+Developer;Clean+Architecture+%7C+MVVM+%7C+BLoC+%7C+GetX;Building+apps+for+thousands+of+real+users" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,18 +15,19 @@
 
 ### 🏆 Highlights
 
-- 🚀 **3 production apps** live on Google Play & the App Store — including EasyInvoice, used by **20,000+ daily active users**
+- 🚀 **4 apps live on Google Play** (3 of them also on the App Store) — including EasyInvoice, used by **20,000+ daily active users**
 - 🛠️ Designed and built a **custom two-way sync engine from scratch** (no third-party package) — duplicate-safe queue, retry logic, Last-Write-Wins merging
+- 🤖 Built a **native Android app end to end** (Kotlin, Jetpack Compose) — on-device OCR, Gemini-drafted flashcards, SM-2 spaced repetition, backed by **220 unit tests**
 - 🏗️ Refactored a production codebase to **Clean Architecture** and introduced unit testing to cut down defects
 - 🌐 **Full-stack capable** — shipped a 6-service Spring Boot microservices backend (Kafka, Docker, API Gateway, Zipkin)
-- 🤖 Set up **CI/CD pipelines** (GitHub Actions, Fastlane, Firebase App Distribution) to automate build, sign & distribution
+- ⚙️ Set up **CI/CD pipelines** (GitHub Actions, Fastlane, Firebase App Distribution) to automate build, sign & distribution
 - 🇬🇧 **English B1** certified (VSTEP 4.0)
 
 ---
 
 ### 🎯 About Me
 
-Nearly 1.5 years of experience building Flutter applications, directly developing and maintaining products used by **thousands of real users** in the e-invoicing and social insurance sectors. Proactively expanding into **native Android** (Kotlin, Jetpack Compose) and **CI/CD automation** (GitHub Actions, Fastlane, Firebase App Distribution) to deepen my mobile platform expertise.
+Nearly 1.5 years of experience building Flutter applications, directly developing and maintaining products used by **thousands of real users** in the e-invoicing and social insurance sectors. Alongside Flutter, I build **native Android** apps (Kotlin, Jetpack Compose, Hilt, Room, Coroutines/Flow) and integrate **on-device ML and generative AI** (ML Kit, Gemini) — see [On Tap TLD](https://github.com/Thi1503/on-tap-tld) — and automate delivery with **CI/CD** (GitHub Actions, Fastlane, Firebase App Distribution).
 
 🎓 Graduated with a **Very Good** degree in Mathematics and Informatics (MI1) from **Hanoi University of Science and Technology (HUST)**, 09/2021 – 03/2026 (GPA 3.23/4.0)
 🚀 Goal: to become a **Middle Mobile Developer** within 1–2 years, taking on more complex projects and getting more involved in application architecture design.
@@ -58,6 +59,23 @@ Nearly 1.5 years of experience building Flutter applications, directly developin
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+
+**Android Jetpack**
+<br>
+<img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/WorkManager-00796B?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataStore-1A73E8?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/CameraX-455A64?style=for-the-badge&logo=android&logoColor=white"/>
+
+**AI & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/Gemini%20(Firebase%20AI%20Logic)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Kit%20Text%20Recognition-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Design%20%26%20Structured%20Output-5F6368?style=for-the-badge"/>
 
 **State Management & Architecture**
 <br>
@@ -67,10 +85,16 @@ Nearly 1.5 years of experience building Flutter applications, directly developin
 <img src="https://img.shields.io/badge/MVVM-6A4C93?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVC-BB4430?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Repository%20Pattern-3A6EA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/StateFlow%20%2F%20UDF-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dependency%20Injection-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Offline--first%20Sync-E76F51?style=for-the-badge"/>
 
 **Data, API & Backend basics**
 <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-F57C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase%20Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/App%20Check-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -94,7 +118,10 @@ Nearly 1.5 years of experience building Flutter applications, directly developin
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unit%20Test-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mockito-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MockK-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Turbine-0095D5?style=for-the-badge"/>
 
 ---
 
@@ -107,9 +134,26 @@ Nearly 1.5 years of experience building Flutter applications, directly developin
 
 ---
 
-### 💼 Featured Projects
+### 🚀 Featured Projects
 
-#### 💰 TLD Tracker <em>(Personal project, Published on Google Play.)</em>
+#### 🧠 On Tap TLD <em>(Personal project · Native Android)</em>
+*Solo project · 09/2026 – 10/2026*
+
+Offline-first flashcard app for Android: snap a page of notes, let AI draft the cards, then review them on an **SM-2 spaced-repetition** schedule. Works fully offline with no account; network is only needed for AI and optional cloud sync.
+
+- Capture → crop → **on-device OCR** (CameraX, ML Kit) → **Gemini** proposes up to 10 cards through Firebase AI Logic — no API key in the app (App Check), JSON-schema output, and a prompt hardened against instructions hidden in the user's notes
+- SM-2 scheduling written as a pure Kotlin function; each AI card links back to the exact line of the note it came from, highlighted on the original photo
+- Clean Architecture + MVVM per feature with unidirectional `StateFlow` and Hilt; ViewModels hold no `Context`/`NavController`, so they run on plain JUnit
+- Offline-first two-way sync with Cloud Firestore — Room-backed command queue, pull-then-push, Last-Write-Wins — plus Google Sign-In via Credential Manager
+- WorkManager for daily reminders and background sync, Room migrations with migration tests, Dark/Light theme, vi/en
+- **220 unit tests** (JUnit, MockK, Turbine) covering SM-2, use cases, ViewModels, the AI prompt, and the sync engine
+
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>Hilt</code> <code>Room</code> <code>Coroutines/Flow</code> <code>WorkManager</code> <code>CameraX</code> <code>ML Kit</code> <code>Gemini</code> <code>Firebase (Auth, Firestore, App Check)</code>
+
+<a href="https://github.com/Thi1503/on-tap-tld"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.youtube.com/watch?v=6vQqLnVYt8c"><img src="https://img.shields.io/badge/Demo%20video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+
+#### 💰 TLD Tracker <em>(Personal project · Published on Google Play)</em>
 *Solo project · 06/2026 – 08/2026*
 
 Offline-first personal expense tracker with a **custom-built** two-way Local ⇄ Cloud sync engine (no third-party sync package).
@@ -175,7 +219,6 @@ Microservices-based Human Resource Management system (6 services) with a Flutter
 <code>Spring Boot 3</code> <code>Kafka</code> <code>Docker</code> <code>Flutter</code> <code>GetX</code>
 
 🔗 <a href="https://github.com/Thi1503/hrm-system">Backend</a> · <a href="https://github.com/Thi1503/hrm-app">Mobile</a>
-
 
 ---
 
