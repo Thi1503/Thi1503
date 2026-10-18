@@ -211,14 +211,21 @@ Outsourced electronic social insurance system for Viettel: profile management, t
 <a href="https://play.google.com/store/apps/details?id=com.viettel.ttcntt.vbhxh&hl=vi"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
 <a href="https://apps.apple.com/vn/app/vbhxh/id6747025308?l=vi"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/></a>
 
-#### 🏢 HRM System — Graduation Project
-*HUST · 10/2025 – 02/2026 · Fullstack Developer*
+#### 🏢 HRM System <em>(Graduation thesis · Fullstack)</em>
+*HUST · 10/2025 – 02/2026*
 
-Microservices-based Human Resource Management system (6 services) with a Flutter app for GPS attendance and leave/OT requests.
+Human Resource Management system: a Spring Boot microservices backend plus a Flutter app for GPS attendance and leave/OT requests.
 
-<code>Spring Boot 3</code> <code>Kafka</code> <code>Docker</code> <code>Flutter</code> <code>GetX</code>
+- 6 services (identity, employee, attendance, request approval, payroll, notification), each with its own MySQL schema, behind a Spring Cloud Gateway that checks the JWT and forwards the user id
+- JWT login with BCrypt and a role/permission model (Admin, HR, Manager, Employee)
+- GPS check-in/out validated against office locations; leave, OT, remote and explanation requests with **2-level approval** (Manager → HR)
+- On HR approval, an event goes through **Kafka** to update attendance; services call each other via OpenFeign, traced with Zipkin, documented in one Swagger UI at the gateway
+- Flutter app (GetX, Dio): check-in on a map, attendance history, creating and approving requests
 
-🔗 <a href="https://github.com/Thi1503/hrm-system">Backend</a> · <a href="https://github.com/Thi1503/hrm-app">Mobile</a>
+<code>Java 21</code> <code>Spring Boot 3</code> <code>Spring Cloud Gateway</code> <code>Kafka</code> <code>MySQL</code> <code>Docker</code> <code>Zipkin</code> <code>Flutter</code> <code>GetX</code>
+
+<a href="https://github.com/Thi1503/hrm-system"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Thi1503/hrm-app"><img src="https://img.shields.io/badge/Mobile-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
