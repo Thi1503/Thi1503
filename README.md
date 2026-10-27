@@ -38,7 +38,7 @@ Nearly 1.5 years of experience building Flutter applications, directly developin
 
 ### 💼 Work Experience
 
-**Flutter Developer** · **Softdreams** · `04/2025 – 05/2026`
+**Flutter Developer** · **Softdreams** · `01/2025 – 05/2026`
 
 - Engineered and maintained production-grade Flutter applications across the e-invoice and social insurance domains, spanning 3 major projects (**EasyInvoice**, **iCare BHXH**, **vBHXH**)
 - Applied **Clean Architecture** and **GetX** state management to improve codebase scalability, maintainability, and long-term development velocity
@@ -137,7 +137,7 @@ Nearly 1.5 years of experience building Flutter applications, directly developin
 ### 🚀 Featured Projects
 
 #### 🧠 On Tap TLD <em>(Personal project · Native Android)</em>
-*Solo project · 09/2026 – 10/2026*
+*Solo project · 09/2026 – present*
 
 Offline-first flashcard app for Android: snap a page of notes, let AI draft the cards, then review them on an **SM-2 spaced-repetition** schedule. Works fully offline with no account; network is only needed for AI and optional cloud sync.
 
@@ -169,7 +169,7 @@ Offline-first personal expense tracker with a **custom-built** two-way Local ⇄
 <a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
 
 #### 📄 EasyInvoice
-*Softdreams · 05/2025 – 05/2026 · Team of 15*
+*Softdreams · 03/2025 – 05/2026 · Team of 15*
 
 E-invoicing app compliant with Vietnamese Circulars 32 & 78, serving **20,000+ daily active users**.
 
