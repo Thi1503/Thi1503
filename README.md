@@ -1,0 +1,263 @@
+<h1 align="center">Hi, I'm Le Dinh Thi 👋</h1>
+<h3 align="center">📱 Mobile Developer | Flutter & Android Native</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6F7&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Native+Developer;Clean+Architecture+%7C+MVVM+%7C+BLoC+%7C+GetX;Building+apps+for+thousands+of+real+users" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:thile15032003@gmail.com"><img src="https://img.shields.io/badge/Email-thile15032003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Phone-0977590583-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 Highlights
+
+- 🚀 **4 apps live on Google Play** (3 of them also on the App Store) — including EasyInvoice, used by **20,000+ daily active users**
+- 🛠️ Designed and built a **custom two-way sync engine from scratch** (no third-party package) — duplicate-safe queue, retry logic, Last-Write-Wins merging
+- 🤖 Built a **native Android app end to end** (Kotlin, Jetpack Compose) — on-device OCR, Gemini-drafted flashcards, SM-2 spaced repetition, backed by **220 unit tests**
+- 🏗️ Refactored a production codebase to **Clean Architecture** and introduced unit testing to cut down defects
+- 🌐 **Full-stack capable** — shipped a 6-service Spring Boot microservices backend (Kafka, Docker, API Gateway, Zipkin)
+- ⚙️ Set up **CI/CD pipelines** (GitHub Actions, Fastlane, Firebase App Distribution) to automate build, sign & distribution
+- 🇬🇧 **English B1** certified (VSTEP 4.0)
+
+---
+
+### 🎯 About Me
+
+Nearly 1.5 years of experience building Flutter applications, directly developing and maintaining products used by **thousands of real users** in the e-invoicing and social insurance sectors. Alongside Flutter, I build **native Android** apps (Kotlin, Jetpack Compose, Hilt, Room, Coroutines/Flow) and integrate **on-device ML and generative AI** (ML Kit, Gemini) — see [On Tap TLD](https://github.com/Thi1503/on-tap-tld) — and automate delivery with **CI/CD** (GitHub Actions, Fastlane, Firebase App Distribution).
+
+🎓 Graduated with a **Very Good** degree in Mathematics and Informatics (MI1) from **Hanoi University of Science and Technology (HUST)**, 09/2021 – 03/2026 (GPA 3.23/4.0)
+🚀 Goal: to become a **Middle Mobile Developer** within 1–2 years, taking on more complex projects and getting more involved in application architecture design.
+
+> 🔧 **Also comfortable outside mobile:** through my graduation project I gained hands-on backend experience with **Java, Spring Boot 3, MySQL, Docker, Kafka, Zipkin and API Gateway** in a microservices setup — enough to work confidently across the full stack when needed.
+
+---
+
+### 💼 Work Experience
+
+**Flutter & Android Developer** · **Independent (personal projects)** · `06/2026 – present`
+
+- Built **TLD Tracker** (Flutter) end-to-end, from architecture to CI/CD and store release — live on Google Play, iOS in App Store review
+- Building **On Tap TLD**, a native Android learning app that turns photos of notes into flashcards with OCR and AI
+
+**Flutter Developer** · **Softdreams** · `01/2025 – 05/2026`
+
+- Engineered and maintained production-grade Flutter applications across the e-invoice and social insurance domains, spanning 3 major projects (**EasyInvoice**, **iCare BHXH**, **vBHXH**)
+- Applied **Clean Architecture** and **GetX** state management to improve codebase scalability, maintainability, and long-term development velocity
+- Authored **unit tests** for core business logic, strengthening reliability and reducing production defects
+- Partnered with **Backend, BA, and QA teams** within an **Agile** workflow to deliver features on schedule
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+**Frameworks & UI**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+
+**Android Jetpack**
+<br>
+<img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/WorkManager-00796B?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataStore-1A73E8?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/CameraX-455A64?style=for-the-badge&logo=android&logoColor=white"/>
+
+**AI & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/Gemini%20(Firebase%20AI%20Logic)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Kit%20Text%20Recognition-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Design%20%26%20Structured%20Output-5F6368?style=for-the-badge"/>
+
+**State Management & Architecture**
+<br>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLoC%2FCubit-01579B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-0A9396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-6A4C93?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-BB4430?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-3A6EA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/StateFlow%20%2F%20UDF-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dependency%20Injection-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Offline--first%20Sync-E76F51?style=for-the-badge"/>
+
+**Data, API & Backend basics**
+<br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-F57C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase%20Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/App%20Check-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase%20Crashlytics-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase%20Analytics-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sign%20in%20with%20Apple-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dio-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+**CI/CD & Automation**
+<br>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fastlane-2C2C2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase%20App%20Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+
+**Tools & Testing**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unit%20Test-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MockK-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Turbine-0095D5?style=for-the-badge"/>
+
+---
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-B1%20(VSTEP%204.0)-4CAF50?style=for-the-badge"/>
+  <br/><sub>Issued 08/2025</sub>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 On Tap TLD <em>(Personal project · Native Android)</em>
+*Solo project · 09/2026 – present*
+
+Offline-first flashcard app for Android: snap a page of notes, let AI draft the cards, then review them on an **SM-2 spaced-repetition** schedule. Works fully offline with no account; network is only needed for AI and optional cloud sync.
+
+- Capture → crop → **on-device OCR** (CameraX, ML Kit) → **Gemini** proposes up to 10 cards through Firebase AI Logic — no API key in the app (App Check), JSON-schema output, and a prompt hardened against instructions hidden in the user's notes
+- SM-2 scheduling written as a pure Kotlin function; each AI card links back to the exact line of the note it came from, highlighted on the original photo
+- Clean Architecture + MVVM per feature with unidirectional `StateFlow` and Hilt; ViewModels hold no `Context`/`NavController`, so they run on plain JUnit
+- Offline-first two-way sync with Cloud Firestore — Room-backed command queue, pull-then-push, Last-Write-Wins — plus Google Sign-In via Credential Manager
+- WorkManager for daily reminders and background sync, Room migrations with migration tests, Dark/Light theme, vi/en
+- **220 unit tests** (JUnit, MockK, Turbine) covering SM-2, use cases, ViewModels, the AI prompt, and the sync engine
+
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>Hilt</code> <code>Room</code> <code>Coroutines/Flow</code> <code>WorkManager</code> <code>CameraX</code> <code>ML Kit</code> <code>Gemini</code> <code>Firebase (Auth, Firestore, App Check)</code>
+
+<a href="https://github.com/Thi1503/on-tap-tld"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.youtube.com/watch?v=6vQqLnVYt8c"><img src="https://img.shields.io/badge/Demo%20video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+
+#### 💰 TLD Tracker <em>(Personal project · Live on Google Play, iOS in App Store review)</em>
+*Solo project · 06/2026 – present*
+
+Offline-first personal expense tracker with a **custom-built** two-way Local ⇄ Cloud sync engine (no third-party sync package), shipped cross-platform from a single Flutter codebase.
+
+- Duplicate-safe command queue, retry on transient failures, Last-Write-Wins merging — self-triggered at 4 sync points with no double-running
+- 3-layer Clean Architecture (Domain/Data/Presentation) with shared base classes (`BaseCubit`, `UseCase`, `BaseRepository`) for consistency and testability
+- Full authentication (Email/Password, Google Sign-In, **Sign in with Apple**) plus a store-compliant account deletion flow — re-authenticate, revoke the provider token, then wipe Firestore + local data
+- **Firebase Crashlytics & Analytics** wired on both platforms (crash reporting, screen-view tracking), designed to stay privacy-light: no user-linked data, no IDFA/ATT prompt
+- fl_chart statistics screens, multi-language (vi/en) support, Dark/Light theme, offline-capable daily reminders
+- Dual-platform CI/CD on one shared build number: **GitHub Actions + Fastlane** builds/signs/distributes Android to Firebase App Distribution, **Codemagic** builds/signs/distributes iOS to TestFlight
+
+<code>Flutter</code> <code>BLoC/Cubit</code> <code>GetIt</code> <code>Hive</code> <code>Firebase (Auth, Firestore, Crashlytics, Analytics)</code> <code>fl_chart</code> <code>Codemagic</code>
+
+<a href="https://play.google.com/store/apps/details?id=com.ledinhthi.tldtracker"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
+
+#### 📄 EasyInvoice
+*Softdreams · 03/2025 – 05/2026 · Team of 15*
+
+E-invoicing app compliant with Vietnamese Circulars 32 & 78, serving **20,000+ daily active users**.
+
+- Built invoice management, declaration, and receipt modules
+- Implemented tax-code verification and invoice-range conversion features
+- Managed release builds and versioning for Android/iOS, streamlining the build-to-distribution workflow
+- Optimized API integration and app stability using GetX and Dio
+
+<code>Flutter</code> <code>GetX</code> <code>Dio</code> <code>Hive</code> <code>Firebase</code>
+
+<a href="https://play.google.com/store/apps/details?id=vn.softdreams.easyinvoice.qlhd&hl=vi"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
+<a href="https://apps.apple.com/vn/app/easyinvoice-qlhd/id1556784655"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/></a>
+
+#### 🏥 iCare BHXH
+*Softdreams · 06/2025 – 12/2025 · Team of 10*
+
+Mobile app for electronic social insurance declaration & lookup.
+
+- Built core declaration workflows (forms 600, 607, and others) and the C12 lookup feature
+- Developed employee management modules (departments, profiles, employee lists)
+- Refactored the codebase to Clean Architecture and added unit tests
+
+<code>Flutter</code> <code>GetX</code> <code>Clean Architecture</code> <code>Mockito</code>
+
+<a href="https://play.google.com/store/apps/details?id=vn.icare.bhxh&hl=vi"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
+<a href="https://apps.apple.com/vn/app/icare-bhxh/id6749675026"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/></a>
+
+#### 🔐 vBHXH
+*Client: Viettel · 01/2026 – 03/2026 · Team of 12*
+
+Outsourced electronic social insurance system for Viettel: profile management, transaction history & payment notifications, remote digital signing via MySign.
+
+- Fixed bugs and developed minor features across the application
+- Took part in code review and refactoring toward cleaner code
+- Wrote unit tests to improve application quality and stability
+
+<code>Flutter</code> <code>GetX</code> <code>Dio</code> <code>Mockito</code>
+
+<a href="https://play.google.com/store/apps/details?id=com.viettel.ttcntt.vbhxh&hl=vi"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
+<a href="https://apps.apple.com/vn/app/vbhxh/id6747025308?l=vi"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/></a>
+
+#### 🏢 HRM System <em>(Graduation thesis · Fullstack)</em>
+*HUST · 10/2025 – 02/2026*
+
+Human Resource Management system: a Spring Boot microservices backend plus a Flutter app for GPS attendance and leave/OT requests.
+
+- 6 services (identity, employee, attendance, request approval, payroll, notification), each with its own MySQL schema, behind a Spring Cloud Gateway that checks the JWT and forwards the user id
+- JWT login with BCrypt and a role/permission model (Admin, HR, Manager, Employee)
+- GPS check-in/out validated against office locations; leave, OT, remote and explanation requests with **2-level approval** (Manager → HR)
+- On HR approval, an event goes through **Kafka** to update attendance; services call each other via OpenFeign, traced with Zipkin, documented in one Swagger UI at the gateway
+- Flutter app (GetX, Dio): check-in on a map, attendance history, creating and approving requests
+
+<code>Java 21</code> <code>Spring Boot 3</code> <code>Spring Cloud Gateway</code> <code>Kafka</code> <code>MySQL</code> <code>Docker</code> <code>Zipkin</code> <code>Flutter</code> <code>GetX</code>
+
+<a href="https://github.com/Thi1503/hrm-system"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Thi1503/hrm-app"><img src="https://img.shields.io/badge/Mobile-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thi1503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thi1503&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thi1503&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:thile15032003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Thi1503"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⭐ Thanks for stopping by my profile!</i></p>
